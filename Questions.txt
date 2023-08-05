@@ -1,0 +1,28 @@
+1. Program to find Average of n Numbers
+2. Print Factors of a Number
+3. Find Largest among n Numbers
+4. Reverse an Array
+5. Addition and Subtraction of Matrices
+6. Matrix Multiplication
+7. Largest of three numbers
+8. Area and Circumference of Circle
+9. Conversion between Number System
+10. Simple Interest
+11. Greatest Common Divisor (GCD)
+12. Write a C Program to Sort the Array in an Ascending Order.
+13. Write a C program using user defined functions to determine whether the given string is 
+palindrome or not.
+14. Write C program to count the number of lines, words and characters in a given text. 
+15. Write a C program to find the length of the string using Pointer.
+16. Write a C program to Display array elements using calloc( ) function. 
+17. Write a C Program to Calculate Total and Percentage marks of a student using structure.
+18. Write a C program to copy the contents of one file to another.
+19. Display the short form of a string. E.g. Computer Science: CS
+20. Currency conversion (any four currencies)
+21. Find the currency denomination of a given amount.
+22. Prepare sales bill using array of structures.
+23. Addition and subtraction of complex numbers using structure.
+24. Write a program to swap two variables values with and without using third variables.
+25. Write a program to print the size of char, float, double and long double data types in C 
+26. Write a program to copy one string to another string with and without using string 
+handling function.
