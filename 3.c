@@ -2,7 +2,7 @@
 #include <stdio.h>
 void main()
 {
-    int num,i,big;
+    int num,big=0;
     
     printf("Enter the Numbers. Enter '0' to stop the inupt:-\n\n");
     
